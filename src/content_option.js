@@ -12,7 +12,7 @@ const introdata = {
         // third: "I am looking for challenging projects",
     },
     description: "Full Stack & Blockchain developer",
-    your_img_url: "assets/photo-1514790193030-c89d266d5a9d.jfif",
+    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
