@@ -1,11 +1,11 @@
-const logotext = "STEVEN GOLDEN";
+const logotext = "RENE REBOLLO";
 const meta = {
-    title: "Steven GOlden",
-    description: "I’m Steven Golden Full stack developer _ Blockchain developer",
+    title: "Rene Rebollo",
+    description: "I’m Rene Rebollo Full stack developer _ Blockchain developer",
 };
 
 const introdata = {
-    title: "I’m Steven Golden",
+    title: "I’m Rene Rebollo",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
